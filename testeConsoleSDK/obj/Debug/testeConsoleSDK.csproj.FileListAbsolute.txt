@@ -1,0 +1,9 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\bin\Debug\testeConsoleSDK.exe.config
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\bin\Debug\testeConsoleSDK.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\bin\Debug\testeConsoleSDK.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\obj\Debug\testeConsoleSDK.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\obj\Debug\testeConsoleSDK.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\obj\Debug\testeConsoleSDK.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\obj\Debug\testeConsoleSDK.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\obj\Debug\testeConsoleSDK.frmRenato.resources
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\testeConsoleSDK\testeConsoleSDK\obj\Debug\testeConsoleSDK.csproj.GenerateResource.cache
